@@ -1,5 +1,5 @@
 # Lending Club Case Study
-> The data containing the  past loan applicants and whether they ‘defaulted’ or not is provided.
+>The data containing the  past loan applicants and whether they ‘defaulted’ or not is provided.
 >The aim is to identify patterns which indicate if a person is likely to default,
 >which may be used for taking actions such as denying the loan, reducing the amount of loan,
 >lending (to risky applicants) at a higher interest rate, etc.
@@ -41,23 +41,23 @@ Data dictionary file which provides the description of various attributes (Data_
 
 
 ## Technologies Used
-- Anaconda - Jupiter-Notebook
-- Git and Github
-- Python
-- library - Panda  - version 1.0
-- library - Matplotlib	 -version 2.0
-- library - numpy -version 3.0
-- library - Seaborn -version 3.0
-- library - plotly -version 3.0
+- Anaconda - Jupiter-Notebook - Version 3.x
+- Git and Github 
+- Python 3.9.12
+- library - Panda  - version 1.4.2
+- library - Matplotlib	 -version 3.5.1
+- library - numpy -version 1.21.5
+- library - Seaborn -version 0.11.2
+- library - plotly -version 5.6.0
 
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
 Give credit here.
-- This project is the first mini project 
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project is the first mini project as  part of course-2 (Statistics Essentials) from Upgrad
+- References if any... https://learn.upgrad.com/course/3611/segment/26495/162238/498573/2568142
+- This project was based on 
 
 
 ## Contact
