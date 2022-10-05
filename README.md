@@ -17,12 +17,12 @@
 - Provide general information about your project here.
 - What is the background of your project?
 Lending club has 2 main Functions
-1.Providing the borrowers a way to apply for the loan
-2.Having a environment for investors to fund these loans.
+>1.Providing the borrowers a way to apply for the loan
+>2.Having a environment for investors to fund these loans.
 There are 3 Parties invloved in the lending club
-1.Borrower - Who applies for a loan for the specific purpose
-2.Lending Club - Based on the category,purpose,grades,sub-grades.. etc approves the loan amount which may be less than or equal to the applied loan from the borrower.
-3.Investor - Who decides to invest in the specific loan portfolio's with various risk categories. Investor may decide on investing in the loan amount equal to or less than the approved loan amount from the lending club.
+>1.Borrower - Who applies for a loan for the specific purpose
+>2.Lending Club - Based on the category,purpose,grades,sub-grades.. etc approves the loan amount which may be less than or equal to the applied loan from the borrower.
+>3.Investor - Who decides to invest in the specific loan portfolio's with various risk categories. Investor may decide on investing in the loan amount equal to or less than the approved loan amount from the lending club.
 - What is the business probem that your project is trying to solve?
 Understand the Consumer Attributes and Loan Attributes and analyse its influence on the tendency of default. The customers labelled as 'charged-off' in loan_status are the 'defaulters'.
 Idenfify patterns to indicate the person defaulting , which may be further used to take decisions like denying the loan,reducing the loan amount, higher interest rates to risky applicants
@@ -54,14 +54,13 @@ Data dictionary file which provides the description of various attributes (Data_
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
 - This project is the first mini project as  part of course-2 (Statistics Essentials) from Upgrad
 - References if any... https://learn.upgrad.com/course/3611/segment/26495/162238/498573/2568142
 - This project was based on 
 
 
 ## Contact
-Created by [@sshrnivasbhat] - feel free to contact me!
+Created by [@sshrinivasbhat] - feel free to contact me!
 
 
 <!-- Optional -->
